@@ -13,6 +13,8 @@ The important keys are:
 - Learn how to connect variables and functions across multiple script files and game objects, 
 - Using private and public access modifiers,
 - How to connect the code part with the playable part in the Unity editor (via the UI components).
+- Make a WebGL build 
+- Upload the game
 
 # #RunTheGame
 Play the game here: https://simmer.io/@Rtyom/tictactoe
